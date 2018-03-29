@@ -1,0 +1,11 @@
+{
+  "test-a": {
+    "value": "ogoA"
+  },
+  "test-b": {
+    "value": "ogoB"
+  },
+  "formform": {
+    "form": "<div>form replacement</div>"
+  }
+}
